@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <div align="center">
-  # ksj's github
+  ## ksj's github
 </div>
 
 <!--내용 부분-->
