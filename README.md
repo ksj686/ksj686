@@ -81,6 +81,10 @@ Here are some ideas to get you started:
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksj686&layout=compact&theme=dracula)
+
+<br>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=perazim)](https://solved.ac/perazim)
 
 <br>
