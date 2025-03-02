@@ -77,10 +77,6 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksj686)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksj686&layout=compact)
 
 <br>
