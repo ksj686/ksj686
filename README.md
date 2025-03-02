@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <div align="center"></div>
-  # ksj's github
 
 
 <!--내용 부분-->
