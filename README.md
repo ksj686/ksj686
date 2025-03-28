@@ -71,8 +71,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Cursor-2C2C32.svg?style=for-the-badge&logo=Cursor&logoColor=22ABF3" />
 </div>
 
-<br>
-
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksj686)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -85,6 +83,10 @@ Here are some ideas to get you started:
 <br>
 -->
 
+<br>
+<br>
+
+## Algorithm tier
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=perazim)](https://solved.ac/perazim)
 
 <br>
